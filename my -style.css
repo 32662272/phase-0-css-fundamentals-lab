@@ -1,0 +1,31 @@
+h1{
+    color:red;
+    text-align: center;
+
+}
+#featured-property{
+    text-align: center;
+}
+nav a{
+    background-color: rgba(0, 0, 255, 0.048);
+    padding: 10px;
+}
+figcaption{
+    font-size: smaller;
+    text-align: center;
+}
+#featured-property p{
+    text-align: center;
+    margin: 2px;
+}
+#details{
+    float: left;
+
+}
+#details{
+    
+    display: inline-block;
+    text-align: center;
+    background-color: brown;
+}
+
